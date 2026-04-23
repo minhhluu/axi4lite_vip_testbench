@@ -5,7 +5,9 @@
 - **Multi-Master Arbitration**: 2 Masters -> 1 Slave (simultaneous access to each slave).
 - **Error Responses**: Validate handling of `DECERR` and `SLVERR`.
 
-![bd](https://iili.io/q7qVHHx.png)
+<a href="bd_advance">
+  <img src="https://public.boxcloud.com/api/2.0/internal_files/2207099696532/versions/2440944397332/representations/png_paged_2048x2048/content/1.png?access_token=1!O_0ZRnzm69YXld10mdy6hRpqztpQOkYZH7ORVHN7i4bC0etpxn5J5eQ3g8gnVlFNAxwUtQnKkq5blrEXtq5lsKYS4OsIXAVo1p_MqHCRWhlNJmZijzBhkxkKGBsaJ80ap6Lrz1SrAJrpKBVNI2v3Ai6OJ8eNiQDuI56VmiMaYX2kn0C8q5F4Wz8jI0cyaZhFur1Fho-PkTqRT-nY6Qw70sOaDOEIZDW5rcbYDlPZIh2fbHX_T81TYiqkIPWjSgAeNLQXQ3pMnvD2FTgaRPSu6VpdMTRn8DG5kb3fF9UVdyTr6PtZZbSsp4Xf83ov0olrqdpUYokY3Rl7ZCIE66oRxtNt7gxcfR5YflSeutr6POfvN3DSFU1HuthzMNvjVfcaPxoJv4hyWskW0dnXh9RAqoYQHtASAfx1100J3ZgK0XpI-BG5HJxqnrLAL-5hF2HQE7IwLl-WqclUGmn275-poP_-DVkv0Px_leqHU_R8lwIbgq3SUPtbtJeBbDccSk5W1vYFTl75E-i1H_weuREl7en4Y-EotGofvWHPj2Ee7CxyDuXbz6uCE8mbvbkjG8wHVWfWoOVat9XT9Tkx9iUTziGlkbEW6PKx7arZYXF4BjWTX0ziuhTnhysK8ze_ENWnHR4lyZudPqnjJWwkRXD8oppwS8g4zXPI9m8BzOMaseqj2JQppXMS9F-YzcBaTK5gDHUMYVBSbCwvuLT01U7E8EueLLrJ-DlaUU4KB2WJd1D0tmDcooYwER2gQ6a2-H6l5p_S2lcJoINJraEIzsEXj9CK75SUrEw.&box_client_name=box-content-preview&box_client_version=3.26.0">
+</a>
 
 ---
 
@@ -21,7 +23,9 @@
 > checking addresses against a "reserved region" to decide between `OKAY` and `SLVERR`.
 
 ---
-![wv](https://iili.io/q7qVJAQ.png)
+<a href="tb_wv">
+  <img src="https://public.boxcloud.com/api/2.0/internal_files/2207116357948/versions/2440962671548/representations/png_paged_2048x2048/content/1.png?access_token=1!5AIUPV5Ajp7t7v6AeepKnImw34T8cdI8w1V8zKI5of5IOP22qcJK3aRvARubE8O9_0KjjKHqjhAEhWxuAYNFBYf58yQQe0IygHrY97lVIwJ2HRvTCHf2bMpYixyg-DvTQeA2zQJzDir5fVL7ROo4zLQeTwNqWtPtxiT-YSfJ-II1Es2XdmDfFtl2fGmWjBiO2q0V-EQgH6oBsDiRSx8iBI-kdXUoZyM07FIw6Ewr0-S28VS_g8SK-4xprGfBxkOMorKeqGjpEdWeWJR5IS1DuK2tV1yxJjAN98BGvzYJcBF2gA6OjakHff9YsCgeDWypVl1aa78gTzKRXXCu4jOZPo53lin_H4jrSkUwCtvm69A61btRf9QEVv9IrVwOSyrnPTqxa-KKVCiR4WmNiiPzAvs3OXwokQvEX_CEqNMaA-AdqiQs4TmNY7MIKxB-XcMppOPqN8CeO7XLkoCNX9zLEZN4Jng4bVAAI_gbnuCicMqK-7bQLl-DSiUuzmXIGJzpBKr8j7sYanbIztG3vq1IWjhOWPUnBwnzW8jVIZZzb53PEwKKWnNYl5DMSj8mP_U0e0pJGj7EXqELARSXaHQUozdQfNQWjWw4-Rdw5AYUiCu1j1R1rsyVWmuq96KYDyiyGXnpGE8sIWMbq6-yo0UGvii3y5fnHhIonUTpPI02FcvG5-aKv_7v0X6qgDpmlZzBUO_6oHpBEUKjxyTxqMbrFkUG1_2fpRkErF1phPKV5dmHho29V-DKdK3s_h0JG6u7e6yvGfknXsArC-3KFUJzEwlsmn_eWxI.&box_client_name=box-content-preview&box_client_version=3.26.0">
+</a>
 
 ## AXI Response Codes
 
