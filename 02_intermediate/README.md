@@ -7,8 +7,10 @@ Validate intermediate AXI protocol understanding by performing burst transaction
 - **Master VIP**: Generates INCR and WRAP burst commands.
 - **Passthrough VIP**: Monitors/passes signals.
 - **Slave Memory VIP**: Acts as a memory-backed target for burst beats.
-
-![waveform_2.png](https://iili.io/qTdznat.png)
+[![qCteMa2.md.png](https://iili.io/qCteMa2.png)](https://freeimage.host/i/qCteMa2)
+<a href="tb_intermediate">
+  <img src="https://public.boxcloud.com/api/2.0/internal_files/2207098139348/versions/2440942108148/representations/png_paged_2048x2048/content/1.png?access_token=1!zGvBYxQLXXorszSgTsQ3yBFcT_YXEDQRsu7ozXJ2oQ1xWAmctswEtTVSlKtLm3bY99MY-DZf0IGtwZ8z3DA5NTYRMwCSgsqBzkEQtxlzv3tX6M5HfT3MlYRV6EIvK_jdradLrPlrK7VzX640bhU7P42yOi_UcuAzF4OEn37aTKeX9Fu6zY6ixA5EwyLF9ni_hyodJ2cKpbjFB63QV1o82p5aMAKBubZlueUFHZFQOcVUlK7ICGvlBDWhIWggm395ewoS_M5cl1JPNecKnZcFGoVuPN71Y-3WEqOiuateosRBJqw1NKgUBhr_Pnq2Vjk1UZJ3TAgzb_iJJrxwMNw2UML1tA0Y5cMWK-tJ-WXqF2ZmtXmqJkWYikzjg3j2_0ZLpNANULs42WGu0Odr_TjM3Owl0amh0gjZ82TNtXabIm97pyVIBlI0hSBhLCJyv3nmtefqzZZinVkrngKkiZ-zgnTDUUJGW7nvyTezIfWyAhRzKw2J5DW3b9bIYI9XdhUs0E7Vu9QnskBAbei2PvKERZAk2rEkxh1QkL2exGRQ2kYpBT3PEkcwNpjwDmSMrHi-mNrie5-Ys_Zd7F00zNpc6PqrZt75yJLXIyJk_a2tGuYy_SqcC8AbC_o1ssGYs9XZx7o_8xu_QjVMCXKU9vgNVqXRaqZ4Vz3WP1UlVD0y3_J6SVcKY7xQ7_LH7w6GZmK4atDG6iJW0f4W1PYUdXt-QkBc4lhf4pzN9CFj8Y1TzyW3NAl9NCqwdZi85Q16UPRUhDqsktMxbH7Etzd3gBEJBa7ofzXG8xA.&box_client_name=box-content-preview&box_client_version=3.26.0">
+</a>
 
 ### AXI Burst Types 
 According to the AXI protocol specification:
