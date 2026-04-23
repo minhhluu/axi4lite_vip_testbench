@@ -8,7 +8,9 @@ Validate basic AXI4-Lite protocol understanding by performing single write and r
 - **Passthrough VIP**: Monitors/passes signals.
 - **Slave Memory VIP**: Acts as a memory-backed target (retains written data).
 
-![waveform](https://iili.io/qn9HgqP.png)
+<a href="tb_axi4_basic">
+  <img src="https://public.boxcloud.com/api/2.0/internal_files/2207092113276/versions/2440934337276/representations/png_paged_2048x2048/content/1.png?access_token=1!AKGR4tbW6cXLqdqPSoYAX04rOVKUsFBRydC92GovJr7XZnf1v1dzJ9-acfdrJK9H93JjTw5JdTP1jF_UKibx_va5gvil-ROea3QqgI8UlMEaTgU5Ge8L5DEaum2Yj81UFQmJCWJY6BjCecUqEk89D1LcvNXjddXOMuvuOk62wRcIn4giOHjrhkJDYUbs6YcacMs_s_nn9-3LFmkfBj6UOYSrgXRRMKfoRaA39WXhZ55T-LXhVlGQLXkbSWrdPnHFR4ZcWalwXlT5UOHY4ggFssP6vDFh_sn7n2WnbDJE1evQ3_hQgXSOXfYulIJZIVnGPjgoEqxb--PMqAhIjjxgpZfK12uUd8uu5v6ij6YatOtUp4ox2lpBV_RKjC2p5mfpnUBnRQh8r495_P1PTBp5xv1AlZVXGjYS7VmFRF7x1Ehh7tp7LXtErGHMKllDmLsN432f4KdsRGU8wctvu6YsM1xTPLN51MFmVTwTVoZ_tE0sNh8uadKHpkkCe6QhOOzFJA5sevjpeWBKjJTR039GAXyg07nCPLC5zdLqtCT9p4Tot_Tv8DAEDoJjvawLIlwDvmokjTMG4tkTUu2AytLYKxQyzJRSntrBmvKF03ZcFOv9aRftoHgJjgIP2siKPNr8kfVFgMal8LSZGmzA-uaiOofB8eHWhodXO4BkSMgpWN9F1uKI54uO1XxBV0HvR1Hr0W2QV63Nex4mHMPuiYsBbv7V615yJz0mRSMPrQYfY68KE_obq7bZdVgRCwkXL7-wocMcbn9lYwhynfev5E8qdCtS83R9Wn8.&box_client_name=box-content-preview&box_client_version=3.26.0">
+</a>
 
 The screenshot confirms that AXI4-Lite verification environment is functioning correctly, with the simulation successfully validating the data path through the master, passthrough, and slave IPs.
 
