@@ -87,7 +87,7 @@ The master issues a start address, and the slave calculates subsequent addresses
 
 ---
 
-### [03 - Advanced: Topologies & Error Handling](https://github.com/minhhluu/axi4lite_vip_testbench/tree/master03_advanced)
+### [03 - Advanced: Topologies & Error Handling](https://github.com/minhhluu/axi4lite_vip_testbench/tree/master/03_advanced)
 
 **Focus:** Multi-master arbitration, address decoding, and system-level error handling.
 
